@@ -6,10 +6,10 @@ This Python script is designed to load CSV data from a specified folder into a M
 
 ## Prerequisites:
 
-- ### Python 3.x
-- ### pandas
-- ### mysql-connector-python
-- ### MySQL database
+-  Python 3.x
+-  pandas
+-  mysql-connector-python
+-  MySQL database
 
 ## Usage:
 
