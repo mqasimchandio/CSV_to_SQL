@@ -13,14 +13,14 @@ This Python script is designed to load CSV data from a specified folder into a M
 
 ## Usage:
 
-### . Configure:
+### 1 Configure:
 
 - Replace the values for host, user, password, and database in the mysql.connector.connect() call with your MySQL database credentials.
 - Update the folder_path variable to point to the directory containing the CSV files.
 - Modify the csv_files list to include the CSV files and their corresponding table names.
 
 
-### . Run:
+### 2 Run:
 
 Execute the Python script.
 
